@@ -191,16 +191,16 @@ export default function Home() {
               <div className="col-md-7 col-12 mt-4 pt-2">
                 <Tab.Panels className="tab-content ml-lg-4">
                   <Tab.Panel>
-                    <img src="http://francisandpartners.com/images/blog-img1.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
+                    <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img1.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
                   </Tab.Panel>
                   <Tab.Panel>
-                    <img src="http://francisandpartners.com/images/blog-img2.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
+                    <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img2.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
                   </Tab.Panel>
                   <Tab.Panel>
-                    <img src="http://francisandpartners.com/images/blog-img3.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
+                    <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img3.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
                   </Tab.Panel>
                   <Tab.Panel>
-                    <img src="http://francisandpartners.com/images/blog-img4.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
+                    <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img4.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
                   </Tab.Panel>
                 </Tab.Panels>
               </div>

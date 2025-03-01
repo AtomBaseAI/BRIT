@@ -27,7 +27,7 @@ function Navbar() {
                     <div>
                         <Link className="logo" href="/">
                             <img
-                                src="https://ik.imagekit.io/nodehive/brit/logo-dark.png"
+                                src="https://ik.imagekit.io/nodehive/brit/logo-darkx2.png"
                                 height={24}
                                 alt="BRIT Resourcing"
                                 className="text-primary"

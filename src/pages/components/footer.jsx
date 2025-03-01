@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="row">
                             <div className="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
                                 <Link href="#" className="logo-footer">
-                                    <img src="https://ik.imagekit.io/nodehive/brit/logo-lightx2.png" height={24} alt="logo-dark" />
+                                    <img src="https://ik.imagekit.io/nodehive/brit/logo-3.png" height={24} alt="logo-dark" />
                                 </Link>
                                 <p className="mt-4">Start working with NODEHIVE that can provide everything digitalized for your business. Our modern technicial solutions helps your business optimization that reaches for more users via your website/web app/mobile app.</p>
                             </div>
@@ -59,7 +59,7 @@ export default function Footer() {
                         <div className="row align-items-center">
                             <div className="col-sm-6">
                                 <div className="text-sm-left">
-                                    <p className="mb-0">© 2013-2026 <span className="text-primary">BRIT Resourcing LTD</span> </p>
+                                    <p className="mb-0">© 2013-2026 <span className="text-primary mx-extra-bold">BRIT Resourcing LTD</span> </p>
                                 </div>
                             </div>
                             <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">

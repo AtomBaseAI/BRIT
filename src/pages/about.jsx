@@ -188,9 +188,6 @@ export default function About() {
                             </div>
                           </div>
                         </div>
-                        <div className="mt-4">
-                          <Link href="/contact" className="btn btn-primary">Contact Us <i data-feather="arrow-right" className="fea icon-sm" /></Link>
-                        </div>
                       </div>{/*end div*/}
                     </div>
                   </div>

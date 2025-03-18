@@ -59,7 +59,7 @@ export default function Footer() {
                         <div className="row align-items-center">
                             <div className="col-sm-6">
                                 <div className="text-sm-left">
-                                    <p className="mb-0">© 2013-2026 <span className="text-primary mx-extra-bold">BRIT Resourcing LTD</span> </p>
+                                    <p className="mb-0">© 2022-2026 <span className="text-primary mx-extra-bold">BRIT Resourcing LTD</span> </p>
                                 </div>
                             </div>
                             <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">

@@ -42,33 +42,33 @@ export default function About() {
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="card features fea-primary rounded p-4 bg-light position-relative overflow-hidden border-0">
                   <span className="h1 icon2 text-primary">
-                    <Briefcase size={40}/>
+                    <Briefcase size={40} />
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Vision</h5>
-                    <p className="para text-muted mb-0">Our vision is to become a midsized corporate by the year of 2025. Safe guard the client’s need through an utmost integration and satisfying them with our services.</p>
+                    <p className="para text-muted mb-0"> Clean and simple cleaning provides Clean and healthy spaces for our clients in hotels.we build long term relationships with our clients and employees by understanding their needs and providing for those needs with the highest level of integrity and professionalism in the hospitality industry</p>
                   </div>
                 </div>
               </div>
               <div className="col-lg-4 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                 <div className="card features fea-primary rounded p-4 bg-light position-relative overflow-hidden border-0">
                   <span className="h1 icon2 text-primary">
-                    <Navigation size={40}/>
+                    <Navigation size={40} />
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Mission</h5>
-                    <p className="para text-muted mb-0">Our mission is to deliver the optimal solutions given with first-rated and standardized services at the affordable prices. First and foremost policy is to fulfill the customers need in a graded priority.</p>
+                    <p className="para text-muted mb-0">Our Mission is to Acquiring the right talent is the most important key to growth.our goal is to increase current market share by 55% across all other sectors in the UK such as hotels and manufacturing units and restaurants that benefit from our services. </p>
                   </div>
                 </div>
               </div>
               <div className="col-lg-4 col-md-6 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
                 <div className="card features fea-primary rounded p-4 bg-light position-relative overflow-hidden border-0">
                   <span className="h1 icon2 text-primary">
-                    <Target size={40}/>
+                    <Target size={40} />
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Goal</h5>
-                    <p className="para text-muted mb-0">Give massive contribution to our country economy development by growing up local business via digitalizing &amp; creating highly skilled programmers via in-office training programs.</p>
+                    <p className="para text-muted mb-0">To provide high quality services to meet our client requirements brit resourcing consultancy aims to increase market share by 60%.Then mainly the hospitality industry with plans to penetrate the businesses like hotels,manufacturing units and restaurants etc </p>
                   </div>
                 </div>
               </div>
@@ -82,10 +82,10 @@ export default function About() {
                   <div className="col-lg-6 col-6 mt-4 mt-lg-0 pt-2 pt-lg-0">
                     <div className="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
                       <div className="card-body p-0">
-                        <img src="https://ik.imagekit.io/nodehive/brit/about/ab01.jpg" className="img-fluid" alt="work-image" />
+                        <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img1.jpg?updatedAt=1740811511425" className="img-fluid" alt="work-image" />
                         <div className="overlay-work bg-dark" />
                         <div className="content">
-                          <Link href="#" className="title text-white d-block font-weight-bold">Digital Marketing</Link>
+                          <Link href="#" className="title text-white d-block font-weight-bold">Housekeeping</Link>
                         </div>
                       </div>
                     </div>
@@ -95,10 +95,10 @@ export default function About() {
                       <div className="col-lg-12 col-md-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
                         <div className="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
                           <div className="card-body p-0">
-                            <img src="https://ik.imagekit.io/nodehive/brit/about/ab02.jpg" className="img-fluid" alt="work-image" />
+                            <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img2.jpg?updatedAt=1740811511369" className="img-fluid" alt="work-image" />
                             <div className="overlay-work bg-dark" />
                             <div className="content">
-                              <Link href="#" className="title text-white d-block font-weight-bold">Technologies</Link>
+                              <Link href="#" className="title text-white d-block font-weight-bold">Food and Beverage waiters/waitress</Link>
                             </div>
                           </div>
                         </div>
@@ -106,10 +106,10 @@ export default function About() {
                       <div className="col-lg-12 col-md-12 mt-4 pt-2">
                         <div className="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
                           <div className="card-body p-0">
-                            <img src="https://ik.imagekit.io/nodehive/brit/about/ab03.jpg" className="img-fluid" alt="work-image" />
+                            <img src="https://ik.imagekit.io/nodehive/brit/home/blog-img3.jpg?updatedAt=1740811511341" className="img-fluid" alt="work-image" />
                             <div className="overlay-work bg-dark" />
                             <div className="content">
-                              <Link href="#" className="title text-white d-block font-weight-bold">In-Office Tranings</Link>
+                              <Link href="#" className="title text-white d-block font-weight-bold">Kitchen porters</Link>
                             </div>
                           </div>
                         </div>
@@ -122,14 +122,18 @@ export default function About() {
                 <div className="ml-lg-4">
                   <div className="section-title mb-4 pb-2">
                     <h4 className="title mb-4">About Our Story</h4>
-                    <p className="text-muted para-desc">We are the <span className="text-primary font-weight-bold">Tech Startup</span> founded on 2019, we have done a lot of projects on web and mobile technologies.</p>
-                    <p className="text-muted para-desc ">We provides modern web and mobile services at affordable cost. We helps to grow the hundreds of local customers business by developing modern websites and mobile applications and SEO .</p>
-                    <p className="text-muted para-desc mb-0">Our services are </p>
+                    <p className="text-muted para-desc ">As a trusted hospitality services and Manufacturing services company within the industry,we have vast experience in proactive and reactive solutions.This is included contract cleaning,one off kitchen deep cleans,structural cleans and a complete package for hotels,Restaurant colleges and more.Brit Resourcing consultancy Limited expanded to become one of the leading service providers in it's field. </p>
+                    <p className="text-muted para-desc mb-0">and our services include:
+                    </p>
                   </div>
                   <ul className="list-unstyled text-muted">
-                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle/></span>Web and Mobile Apps development</li>
-                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle/></span>Digital marketing &amp; SEO, Social Media Marketing</li>
-                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle/></span>Training Programs (Technical Skills)</li>
+                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle /></span>Housekeeping                     </li>
+                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle /></span>Kitchen porters
+                    </li>
+                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle /></span>Food and Beverage waiters/waitress
+                    </li>
+                    <li className="mb-0 py-1"><span className="text-primary h4 mr-2"><CheckCircle /></span>Manufacturing staffs 
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -150,7 +154,7 @@ export default function About() {
                           <div className="col-md-6 col-12 mt-4">
                             <div className="media align-items-center">
                               <div className="icon text-center rounded-circle h4 text-primary mr-2 mb-0">
-                                <Zap/>
+                                <Zap />
                               </div>
                               <div className="media-body">
                                 <h6 className="title text-dark mb-0">Fast Process</h6>
@@ -160,7 +164,7 @@ export default function About() {
                           <div className="col-md-6 col-12 mt-4">
                             <div className="media align-items-center">
                               <div className="icon text-center rounded-circle h4 text-primary mr-2 mb-0">
-                                <Umbrella/>
+                                <Umbrella />
                               </div>
                               <div className="media-body">
                                 <h6 className="title text-dark mb-0">Secured</h6>
@@ -170,7 +174,7 @@ export default function About() {
                           <div className="col-md-6 col-12 mt-4">
                             <div className="media align-items-center">
                               <div className="icon text-center rounded-circle h4 text-primary mr-2 mb-0">
-                                <DollarSign/>
+                                <DollarSign />
                               </div>
                               <div className="media-body">
                                 <h6 className="title text-dark mb-0">Low cost</h6>
@@ -180,7 +184,7 @@ export default function About() {
                           <div className="col-md-6 col-12 mt-4">
                             <div className="media align-items-center">
                               <div className="icon text-center rounded-circle h4 text-primary mr-2 mb-0">
-                                <UserCheck/>
+                                <UserCheck />
                               </div>
                               <div className="media-body">
                                 <h6 className="title text-dark mb-0">Customer Support</h6>

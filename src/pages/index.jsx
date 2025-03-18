@@ -10,7 +10,7 @@ export default function Home() {
             <div className="col-lg-7 col-md-7">
               <div className="title-heading mt-4">
                 <h1 className="heading mb-3">Welcome to <span className="text-primary">BRIT Resourcing </span> </h1>
-                <p className="para-desc text-muted"> we are specialist division of the Black Diamond Group and is dedicated to providing all cleaning and support service requirements to the hotel and commercial hospitality industry. We can assist in complete or partial facilities management providing cost and time efficiencies, ease of implementation, and seamless integration.</p>
+                <p className="para-desc text-muted"> we are specialist division dedicated to providing all cleaning and support service requirements to the hotel and commercial hospitality industry. We can assist in complete or partial facilities management providing cost and time efficiencies, ease of implementation, and seamless integration.</p>
                 <div className="mt-4">
                   <Link href="#getstarted" className="btn btn-primary mt-2 mr-2">Get Started <i className="mdi mdi-chevron-right" /></Link>
                 </div>

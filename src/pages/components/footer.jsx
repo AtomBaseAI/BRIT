@@ -64,8 +64,8 @@ export default function Footer() {
                             </div>
                             <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                                 <ul className="list-unstyled text-sm-right mb-0">
-                                    <li className="list-inline-item mx-2"><Link href="https://www.facebook.com/nodehivecorp" className="btn btn-icon btn-pills btn-lg btn-blue" data-toggle="tooltip" data-placement="top" title="Facebook"><Facebook className="icons" /></Link></li>
-                                    <li className="list-inline-item mx-2"><Link href="https://www.instagram.com/nodehive/" className="btn btn-icon btn-pills btn-lg btn-danger" data-toggle="tooltip" data-placement="top" title="Instagram"><Instagram className="icons" /></Link></li>
+                                    {/* <li className="list-inline-item mx-2"><Link href="https://www.facebook.com/nodehivecorp" className="btn btn-icon btn-pills btn-lg btn-blue" data-toggle="tooltip" data-placement="top" title="Facebook"><Facebook className="icons" /></Link></li> */}
+                                    <li className="list-inline-item mx-2"><Link href="https://www.instagram.com/britresourcing_2025/" className="btn btn-icon btn-pills btn-lg btn-danger" data-toggle="tooltip" data-placement="top" title="Instagram"><Instagram className="icons" /></Link></li>
                                     {/* <li className="list-inline-item mx-2"><Link href="https://github.com/nodehive" className="btn btn-icon btn-pills btn-lg btn-warning" data-toggle="tooltip" data-placement="top" title="Gitlab"><Gitlab className="icons" /></Link></li> */}
                                 </ul>
                             </div>

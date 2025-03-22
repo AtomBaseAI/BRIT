@@ -9,16 +9,16 @@ export default function Document() {
         <meta name="description" content="Staffing agency, Logistic staff provider, Housekeeping agency, Housekeeping agencies, employment agency, recruitment" />
         <meta name="keywords" content="Staffing agency, Logistic staff provider, Housekeeping agency, Housekeeping agencies, employment agency, recruitment" />
         <meta name="author" content="BRIT Resourcing" />
-        <meta name="website" content="https://www.nodehive.in" />
+        <meta name="website" content="https://www.britresourcing.com/" />
         <meta property="og:site_name" content="BRIT Resourcing" />
-        <meta property="og:title" content="NODEHIVE - Technologies" />
+        <meta property="og:title" content="Brit Resourcing" />
         <meta property="og:description" content="Staffing agency, Logistic staff provider, Housekeeping agency, Housekeeping agencies, employment agency, recruitment" />
         <meta property="og:image" content="https://ik.imagekit.io/nodehive/brit/nodehive.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content={300} />
         <meta property="og:image:height" content={300} />
-        <meta property="og:url" content="https://www.nodehive.in" />
+        <meta property="og:url" content="https://www.britresourcing.com/" />
         <link rel="manifest" href="/manifest.json" />
       </Head>
       <body>

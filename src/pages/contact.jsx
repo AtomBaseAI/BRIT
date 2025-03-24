@@ -87,7 +87,7 @@ export default function Contact() {
                     <div className="row align-items-center">
                       <div className="col-6">
                         <div className="icon m-5">
-                          <Link href="tel:+44 7767952171">
+                          <Link href="tel:+447767976170">
                             <img src="https://ik.imagekit.io/nodehive/brit/social/1.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div>
@@ -102,7 +102,7 @@ export default function Contact() {
                       </div>
                       <div className="col-6">
                         <div className="icon m-5">
-                          <Link href="mailto:info@nodehive.in">
+                          <Link href="mailto:info@britresourcing.com ">
                             <img src="https://ik.imagekit.io/nodehive/brit/social/2.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div>

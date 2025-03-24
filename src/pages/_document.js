@@ -13,7 +13,7 @@ export default function Document() {
         <meta property="og:site_name" content="BRIT Resourcing" />
         <meta property="og:title" content="Brit Resourcing" />
         <meta property="og:description" content="Staffing agency, Logistic staff provider, Housekeeping agency, Housekeeping agencies, employment agency, recruitment" />
-        <meta property="og:image" content="https://ik.imagekit.io/nodehive/brit/x.jpg" />
+        <meta property="og:image" content="https://ik.imagekit.io/nodehive/brit/x.png" />
         <meta property="og:type" content="website" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content={300} />
